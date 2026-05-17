@@ -8,7 +8,7 @@
 
 **AI-powered Cybersecurity Password Intelligence Platform**
 
-🔗 **[Live Demo](https://abhayarya91.github.io/MahaVault)**
+🔗 **[Live Demo](https://abhayarya91.github.io/MahaVolt/)**
 
 ---
 
