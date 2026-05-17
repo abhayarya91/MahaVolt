@@ -38,7 +38,7 @@ open index.html
 
 ## Developer
 **Abhay Kumar** — B.Tech Cybersecurity, Lamrin Tech Skills University (2023–27)
-Digital Forensics Intern @ NCFL IFSO, Delhi Police
+Ex. Digital Forensics Intern @ NCFL IFSO, Delhi Police
 
 ---
 
